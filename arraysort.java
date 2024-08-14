@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 public class arraysort {
 	public static void main(String arg[]) {
 		int arr[]= new int[10];
